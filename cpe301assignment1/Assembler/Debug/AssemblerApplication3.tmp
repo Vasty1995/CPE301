@@ -1,0 +1,38 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.52</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\oit\Documents\Atmel Studio\6.1\AssemblerApplication3\AssemblerApplication3\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.39.1005\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\oit\Documents\Atmel Studio\6.1\AssemblerApplication3\AssemblerApplication3\AssemblerApplication3.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.39.1005\avrassembler\Include\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\oit\Documents\Atmel Studio\6.1\AssemblerApplication3\AssemblerApplication3\Debug/AssemblerApplication3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AssemblerApplication3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AssemblerApplication3.map</FILE>
+  <FILE>AssemblerApplication3.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <FILL><FILE>C:\Users\oit\Documents\Atmel Studio\6.1\AssemblerApplication3\AssemblerApplication3\AssemblerApplication3.asm</FILE><LINE>22</LINE></FILL>
+  <RESETX><FILE>C:\Users\oit\Documents\Atmel Studio\6.1\AssemblerApplication3\AssemblerApplication3\AssemblerApplication3.asm</FILE><LINE>50</LINE></RESETX>
+  <CONTINUE><FILE>C:\Users\oit\Documents\Atmel Studio\6.1\AssemblerApplication3\AssemblerApplication3\AssemblerApplication3.asm</FILE><LINE>30</LINE></CONTINUE>
+  <DIVIDE><FILE>C:\Users\oit\Documents\Atmel Studio\6.1\AssemblerApplication3\AssemblerApplication3\AssemblerApplication3.asm</FILE><LINE>55</LINE></DIVIDE>
+  <DIVIDERET><FILE>C:\Users\oit\Documents\Atmel Studio\6.1\AssemblerApplication3\AssemblerApplication3\AssemblerApplication3.asm</FILE><LINE>33</LINE></DIVIDERET>
+  <FILLMORE><FILE>C:\Users\oit\Documents\Atmel Studio\6.1\AssemblerApplication3\AssemblerApplication3\AssemblerApplication3.asm</FILE><LINE>37</LINE></FILLMORE>
+  <DIVIDE2><FILE>C:\Users\oit\Documents\Atmel Studio\6.1\AssemblerApplication3\AssemblerApplication3\AssemblerApplication3.asm</FILE><LINE>82</LINE></DIVIDE2>
+  <DIVIDERET2><FILE>C:\Users\oit\Documents\Atmel Studio\6.1\AssemblerApplication3\AssemblerApplication3\AssemblerApplication3.asm</FILE><LINE>45</LINE></DIVIDERET2>
+  <END><FILE>C:\Users\oit\Documents\Atmel Studio\6.1\AssemblerApplication3\AssemblerApplication3\AssemblerApplication3.asm</FILE><LINE>109</LINE></END>
+  <L1><FILE>C:\Users\oit\Documents\Atmel Studio\6.1\AssemblerApplication3\AssemblerApplication3\AssemblerApplication3.asm</FILE><LINE>59</LINE></L1>
+  <NOTDIV><FILE>C:\Users\oit\Documents\Atmel Studio\6.1\AssemblerApplication3\AssemblerApplication3\AssemblerApplication3.asm</FILE><LINE>74</LINE></NOTDIV>
+  <L2><FILE>C:\Users\oit\Documents\Atmel Studio\6.1\AssemblerApplication3\AssemblerApplication3\AssemblerApplication3.asm</FILE><LINE>86</LINE></L2>
+  <NOTDIV2><FILE>C:\Users\oit\Documents\Atmel Studio\6.1\AssemblerApplication3\AssemblerApplication3\AssemblerApplication3.asm</FILE><LINE>101</LINE></NOTDIV2>
+ </LABELS>
+</ASSEMBLER_INFO>
